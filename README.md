@@ -1,4 +1,6 @@
 # Utils
 
-List class 
-Class.forName("[L" + MyClass.class.getName() + ";"
+
+A way to get the Class of List    
+
+      Class.forName("[L" + MyClass.class.getName() + ";"
